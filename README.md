@@ -35,8 +35,9 @@
 1. To stop the execution of the application, In the command window where you ran "npm start", press `ctrl-C` twice and then close the browser tab
 
 ## Replace the App.js file in the src folder with the App.js for the Fluid demo
-1. Use the File Explorer to delete the App.js in the example1\src folder
-2. Use the File Explorer to copy the App.js that I sent you to the example1\src folder
+1. Download the App.js file from the src folder in this repository 
+2. Use the File Explorer to delete the App.js in the example1\src folder
+3. Use the File Explorer to copy the App.js that you downloaded to the example1\src folder on your local machine
 
 ## Run the React example1 React Application
 1. In the command window, Run the following command:
@@ -49,6 +50,6 @@
 ## To stop the React application
 1. To stop the execution of the application, In the command window where you ran "npm start", press `ctrl-C` twice and then close the browser tab
 
-## Based on the modules and code available at: 
+## Based on modules and code available at: 
 - [react-fluid-distortion](https://github.com/whatisjery/react-fluid-distortion)
 - [react-three-fiber](https://github.com/pmndrs/react-three-fiber)
