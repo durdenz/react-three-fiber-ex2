@@ -49,3 +49,6 @@
 ## To stop the React application
 1. To stop the execution of the application, In the command window where you ran "npm start", press `ctrl-C` twice and then close the browser tab
 
+## Based on the modules and code available at: 
+- [react-fluid-distortion](https://github.com/whatisjery/react-fluid-distortion)
+- [react-three-fiber](https://github.com/pmndrs/react-three-fiber)
