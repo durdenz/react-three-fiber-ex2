@@ -1,4 +1,4 @@
-# Instructions for Setting up and running React-Three-Fluid-Example
+# Instructions for Setting up and running React-Three-Fluid-Example on Windows
 ## Install Node
 1. Go to https://nodejs.org/en/download and download the installer for Windows x64 architecture
     - Run the installer and accept defaults for all options
@@ -32,7 +32,7 @@
 3. The compile and launch process can take a while...
 
 ## To stop the React application
-4. To stop the execution of the application, In the command window where you ran "npm start", press ctrl-C and then close the browser tab
+4. To stop the execution of the application, In the command window where you ran "npm start", press `ctrl-C` twice and then close the browser tab
 
 ## Replace the App.js file in the src folder with the App.js for the Fluid demo
 1. Use the File Explorer to delete the App.js in the example1\src folder
@@ -47,5 +47,5 @@
 5. You will see errors reported in the browser window... Click on the X in the upper right corner of the browser window to dismiss the errors and the app should start running. The browser window background will turn black and a blue fluid animation will follow the mouse pointer around...
 
 ## To stop the React application
-4. To stop the execution of the application, In the command window where you ran "npm start", press ctrl-C twice and then close the browser tab
+4. To stop the execution of the application, In the command window where you ran "npm start", press `ctrl-C` twice and then close the browser tab
 
